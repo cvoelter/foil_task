@@ -1,0 +1,889 @@
+Subject	Sex	Group	Age	Date	Day	Session	Phase	Condition	left_cup	trial_number	food_side	chose_side	correct	Comment		Chosen_distractor	switching_mistakes				
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	1	l	l	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	2	r	l	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	3	r	r	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	4	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	5	r	r	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	6	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	7	l	l	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	8	r	l	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	9	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	10	l	l	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	11	r	l	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	12	r	r	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	13	r	r	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	14	r	r	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	15	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	16	r	r	1								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	17	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	18	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	19	r	l	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	20	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	21	r	l	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	22	r	l	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	23	l	r	0								
+William	m	young chimps	18	31/10/2018	20	1	pretest		pink	24	l	l	1								
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	1	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	2	r	l	0	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	3	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	4	l	r	0	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	5	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	6	l	r	0	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	7	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	8	r	l	0	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	9	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	10	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	11	r	l	0	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	12	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	13	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	14	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	15	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	16	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	17	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	18	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	19	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	20	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	21	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	22	r	r	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	23	l	l	1	pink cup was always baited							
+Jane	f	young chimps	14	31/10/2018	20	1	pretest		pink	24	l	l	1	pink cup was always baited							
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	1	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	2	r	r	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	3	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	4	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	5	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	6	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	7	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	8	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	9	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	10	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	11	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	12	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	13	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	14	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	15	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	16	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	17	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	18	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	19	r	r	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	20	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	21	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	22	r	l	0								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	23	l	l	1								
+Roy	m	young chimps	11	31/10/2018	20	1	pretest		pink	24	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	1	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	2	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	3	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	4	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	5	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	6	l	r	0								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	7	l	r	0								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	8	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	9	l	r	0								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	10	l	r	0								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	11	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	12	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	13	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	14	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	15	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	16	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	17	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	18	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	19	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	20	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	21	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	22	r	r	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	23	l	l	1								
+Tess	f	young chimps	26	31/10/2018	20	1	pretest		pink	24	l	l	1								
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	1	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	2	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	3	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	4	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	5	r	r	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	6	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	7	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	8	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	9	l	r	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	10	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	11	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	12	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	13	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	14	r	r	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	15	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	16	r	r	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	17	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	18	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	19	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	20	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	21	r	l	0	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	22	r	r	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	23	l	l	1	always the blue cup was baited							
+Manno	m	young chimps	5	31/10/2018	20	1	pretest		blue	24	l	l	1	always the blue cup was baited							
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	1	l	l	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	2	r	l	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	3	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	4	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	5	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	6	l	l	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	7	l	l	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	8	r	l	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	9	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	10	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	11	r	l	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	12	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	13	r	l	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	14	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	15	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	16	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	17	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	18	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	19	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	20	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	21	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	22	r	r	1								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	23	l	r	0								
+Uruhara	m	young chimps	29	31/10/2018	20	1	pretest		blue	24	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	1	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	2	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	3	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	4	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	5	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	6	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	7	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	8	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	9	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	10	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	11	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	12	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	13	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	14	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	15	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	16	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	17	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	18	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	19	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	20	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	21	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	22	r	r	1								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	23	l	r	0								
+Chipie	f	young chimps	27	31/10/2018	20	1	pretest		blue	24	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	1	l	l	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	2	r	l	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	3	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	4	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	5	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	6	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	7	l	l	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	8	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	9	l	l	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	10	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	11	r	l	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	12	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	13	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	14	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	15	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	16	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	17	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	18	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	19	r	l	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	20	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	21	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	22	r	r	1								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	23	l	r	0								
+Amizero	f	young chimps	29	01/11/2018	20	1	pretest		pink	24	l	r	0								
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	1	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	2	r	l	0	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	3	r	l	0	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	4	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	5	r	r	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	6	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	7	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	8	r	l	0	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	9	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	10	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	11	r	l	0	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	12	r	r	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	13	r	r	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	14	r	r	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	15	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	16	r	l	0	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	17	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	18	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	19	r	r	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	20	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	21	r	r	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	22	r	r	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	23	l	l	1	repetition of pretest 1 with stable cup positions							
+Manno	m	young chimps	5	01/11/2018	20	2	pretest		blue	24	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	1	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	2	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	3	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	4	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	5	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	6	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	7	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	8	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	9	l	r	0	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	10	l	r	0	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	11	r	l	0	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	12	r	l	0	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	13	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	14	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	15	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	16	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	17	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	18	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	19	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	20	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	21	r	l	0	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	22	r	r	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	23	l	l	1	repetition of pretest 1 with stable cup positions							
+Jane	f	young chimps	14	01/11/2018	20	2	pretest		pink	24	l	l	1	repetition of pretest 1 with stable cup positions							
+Tess	f	young chimps	26	01/11/2018	21	2	test	food-stick	pink	1	l	r	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	2	r	l	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	3	r	l	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	4	l	l	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	5	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	6	l	l	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	7	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	8	l	r	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	9	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	10	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	11	l	l	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	12	l	r	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	13	l	l	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	14	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	15	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	16	l	r	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	17	l	l	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	18	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	19	l	r	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	20	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	21	l	l	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	22	r	l	0								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	23	r	r	1								
+Tess	f	young chimps	26	01/11/2018	20	2	test	food-stick	pink	24	l	l	1								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	1	r	r	1								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	2	l	r	0								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	3	l	r	0								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	4	r	l	0								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	5	r	r	1								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	6	l	r	0								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	7	r	r	1								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	8	l	r	0								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	9	r	r	1								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	10	l	r	0								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	11	l	r	0								
+Tess	f	young chimps	26	02/11/2018	21	2	transfer	stick-food	pink	12	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	1	l	r	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	2	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	3	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	4	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	5	l	r	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	6	l	r	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	7	r	r	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	8	r	r	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	9	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	10	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	11	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	12	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	13	r	r	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	14	l	r	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	15	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	16	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	17	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	18	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	19	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	20	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	21	r	l	0								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	22	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	23	l	l	1								
+Jane	f	young chimps	14	02/11/2018	20	3	test	stick-food	pink	24	r	l	0								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	1	l	l	1								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	2	r	l	0								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	3	r	l	0								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	4	l	l	1								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	5	r	l	0								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	6	l	l	1								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	7	r	l	0								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	8	l	l	1								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	9	r	l	0								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	10	r	l	0								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	11	l	l	1								
+Manno	m	young chimps	5	02/11/2018	20	3	test	food-stick	blue	12	l	l	1	"session stopped, he did not approach the platform"							
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	13	l	l	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	14	r	l	0								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	15	r	r	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	16	l	l	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	17	l	l	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	18	r	l	0								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	19	l	l	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	20	r	r	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	21	l	r	0								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	22	r	r	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	23	r	r	1								
+Manno	m	young chimps	5	03/11/2018	20	4	test	food-stick	blue	24	l	l	1								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	1	l	l	1								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	2	r	l	0								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	3	r	l	0								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	4	l	l	1								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	5	l	l	1								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	6	r	l	0								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	7	l	l	1								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	8	r	l	0								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	9	l	l	1								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	10	r	l	0								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	11	r	l	0								
+Jane	f	young chimps	14	03/11/2018	21	4	transfer	food-stick	blue	12	l	l	1								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	1	r	l	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	2	l	r	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	3	l	r	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	4	r	l	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	5	r	l	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	6	l	r	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	7	r	l	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	8	l	r	0								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	9	r	r	1								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	10	l	l	1								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	11	l	l	1								
+Manno	m	young chimps	5	05/11/2018	21	5	transfer	stick-food	blue	12	r	l	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	1	l	l	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	2	r	l	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	3	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	4	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	5	l	r	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	6	l	l	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	7	l	l	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	8	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	9	l	r	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	10	l	r	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	11	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	12	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	13	l	r	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	14	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	15	l	r	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	16	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	17	l	r	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	18	l	l	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	19	r	l	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	20	l	l	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	21	r	l	0								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	22	r	r	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	23	l	l	1								
+Safari	m	old chimps	34	10/12/2018	20	1	pretest		pink	24	r	l	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	1	l	r	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	2	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	3	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	4	l	r	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	5	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	6	l	r	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	7	l	l	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	8	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	9	l	r	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	10	l	r	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	11	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	12	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	13	l	r	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	14	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	15	l	l	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	16	r	l	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	17	l	l	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	18	l	r	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	19	r	l	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	20	l	l	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	21	r	r	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	22	r	l	0								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	23	l	l	1								
+Oscar	m	old chimps	21	06/12/2018	20	1	pretest		pink	24	r	l	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	1	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	2	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	3	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	4	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	5	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	6	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	7	l	l	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	8	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	9	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	10	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	11	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	12	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	13	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	14	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	15	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	16	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	17	l	r	0								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	18	l	l	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	19	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	20	l	l	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	21	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	22	r	r	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	23	l	l	1								
+Judy	f	old chimps	35	06/12/2018	20	1	pretest		pink	24	r	r	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	1	l	l	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	2	r	l	0								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	3	r	r	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	4	l	l	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	5	r	r	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	6	l	l	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	7	l	l	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	8	r	l	0								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	9	l	l	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	10	l	l	1								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	11	r	l	0								
+Alley	f	old chimps	31	06/12/2018	20	1	pretest		blue	12	r	r	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	1	l	r	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	2	r	r	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	3	r	r	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	4	l	r	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	5	r	r	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	6	l	r	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	7	l	r	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	8	r	r	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	9	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	10	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	11	r	l	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	12	r	l	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	13	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	14	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	15	r	r	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	16	r	l	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	17	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	18	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	19	r	l	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	20	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	21	r	l	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	22	r	l	0								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	23	l	l	1								
+Ajabu	f	old chimps	10	06/12/2018	20	1	pretest		blue	24	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	1	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	2	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	3	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	4	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	5	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	6	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	7	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	8	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	9	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	10	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	11	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	12	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	13	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	14	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	15	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	16	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	17	l	r	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	18	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	19	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	20	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	21	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	22	r	l	0								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	23	l	l	1								
+Angela	f	old chimps	7	07/12/2018	20	1	pretest		pink	24	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	1	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	2	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	3	l	r	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	4	l	r	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	5	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	6	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	7	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	8	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	9	r	r	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	10	r	r	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	11	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	12	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	13	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	14	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	15	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	16	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	17	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	18	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	19	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	20	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	21	l	l	1								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	22	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	23	r	l	0								
+Alley	f	old chimps	31	09/12/2018	21	2	test	food-stick	blue	24	l	l	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	1	l	l	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	2	l	l	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	3	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	4	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	5	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	6	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	7	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	8	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	9	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	10	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	11	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	12	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	13	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	14	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	15	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	16	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	17	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	18	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	19	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	20	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	21	r	r	1								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	22	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	23	l	r	0								
+Judy	f	old chimps	35	09/12/2018	21	2	test	stick-food	pink	24	r	r	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	1	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	2	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	3	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	4	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	5	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	6	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	7	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	8	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	9	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	10	l	L	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	11	r	L	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	12	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	13	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	14	r	L	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	15	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	16	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	17	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	18	l	L	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	19	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	20	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	21	r	L	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	22	r	R	1								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	23	l	R	0								
+Cheetah	f	old chimps	31	04-Nov-18		1	pretest		pink	24	r	R	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	1	l	R	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	2	r	R	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	3	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	4	l	R	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	5	r	R	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	6	l	R	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	7	l	R	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	8	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	9	l	L	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	10	l	R	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	11	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	12	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	13	r	R	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	14	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	15	l	R	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	16	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	17	l	L	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	18	l	L	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	19	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	20	l	L	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	21	r	L	0								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	22	r	R	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	23	l	L	1								
+Alikaka	m	old chimps	20	04-Nov-18		1	pretest		blue	24	l	R	1								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	1	l	L	1	stood up							
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	2	r	R	1								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	3	r	R	1								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	4	l	L	1								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	5	r	R	1	stood up							
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	6	l	L	1								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	7	l	R	0								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	8	r	R	1								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	9	l	R	0								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	10	l	R	0								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	11	r	R	1								
+Julia	f	old chimps	18	04-Nov-18		1	pretest		blue	12	r	R	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	1	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	2	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	3	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	4	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	5	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	6	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	7	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	8	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	9	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	10	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	11	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	12	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	13	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	14	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	15	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	16	r	R	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	17	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	18	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	19	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	20	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	21	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	22	r	L	0								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	23	l	L	1								
+Amahirwe	m	old chimps	20	04-Nov-18		1	pretest		pink	24	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	1	l	L	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	2	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	3	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	4	l	L	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	5	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	6	l	R	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	7	l	R	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	8	r	R	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	9	l	L	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	10	l	L	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	11	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	12	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	13	l	R	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	14	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	15	l	R	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	16	r	R	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	17	l	L	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	18	l	R	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	19	r	L	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	20	l	L	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	21	r	R	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	22	r	R	1								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	23	l	R	0								
+Edvard	m	old chimps	18	04-Nov-18		1	pretest		blue	24	r	L	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	1	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	2	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	3	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	4	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	5	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	6	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	7	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	8	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	9	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	10	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	11	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	12	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	13	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	14	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	15	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	16	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	17	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	18	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	19	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	20	l	L	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	21	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	22	r	R	1								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	23	l	R	0								
+Zee	m	old chimps	18	04-Nov-18		1	pretest		blue	24	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	1	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	2	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	3	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	4	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	5	r	L	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	6	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	7	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	8	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	9	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	10	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	11	r	L	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	12	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	13	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	14	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	15	l	L	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	16	r	L	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	17	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	18	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	19	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	20	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	21	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	22	r	R	1								
+Mwanzo	f	old chimps	22			1	pretest		pink	23	l	R	0								
+Mwanzo	f	old chimps	22			1	pretest		pink	24	r	R	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	1	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	2	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	3	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	4	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	5	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	6	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	7	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	8	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	9	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	10	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	11	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	12	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	13	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	14	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	15	l	R	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	16	r	R	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	17	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	18	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	19	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	20	l	R	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	21	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	22	r	L	0								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	23	l	L	1								
+Mary	f	old chimps	15	04/11/2018		1	pretest		pink	24	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	1	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	2	r	L	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	3	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	4	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	5	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	6	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	7	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	8	r	L	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	9	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	10	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	11	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	12	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	13	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	14	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	15	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	16	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	17	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	18	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	19	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	20	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	21	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	22	r	R	1								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	23	l	R	0								
+Joy	f	young chimps	14	30-Nov-18		1	pretest		blue	24	r	R	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	1	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	2	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	3	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	4	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	5	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	6	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	7	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	8	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	9	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	10	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	11	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	12	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	13	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	14	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	15	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	16	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	17	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	18	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	19	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	20	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	21	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	22	r	L	0								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	23	l	L	1								
+Bahati	f	young chimps	25	30-Nov-18		1	pretest		blue	24	r	L	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	1	l	L	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	2	r	L	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	3	r	R	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	4	l	L	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	5	r	L	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	6	l	R	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	7	l	L	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	8	r	R	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	9	l	L	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	10	l	L	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	11	r	L	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	12	r	R	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	13	l	R	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	14	r	L	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	15	l	R	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	16	r	L	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	17	l	R	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	18	l	L	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	19	r	L	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	20	l	R	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	21	r	R	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	22	r	R	1								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	23	l	R	0								
+Niyonkuru	m	young chimps	28	03-Dec-18		1	pretest		pink	24	r	R	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	1	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	2	r	R	1	saw apple							
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	3	r	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	4	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	5	r	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	6	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	7	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	8	r	R	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	9	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	10	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	11	r	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	12	l	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	13	r	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	14	r	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	15	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	16	r	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	17	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	18	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	19	r	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	20	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	21	r	L	0								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	22	r	R	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	23	l	L	1								
+Dufa	f	young chimps	27	30-Nov-18		1	pretest		pink	24	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	1	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	2	r	R	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	3	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	4	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	5	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	6	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	7	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	8	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	9	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	10	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	11	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	12	l	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	13	r	R	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	14	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	15	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	16	r	R	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	17	l	R	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	18	l	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	19	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	20	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	21	r	L	0								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	22	r	R	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	23	l	L	1								
+Akela	f	young chimps	30	03-Dec-18		1	pretest		pink	24	r	L	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	1	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	2	r	R	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	3	r	R	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	4	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	5	r	R	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	6	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	7	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	8	r	L	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	9	l	L	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	10	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	11	r	L	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	12	r	R	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	13	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	14	r	L	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	15	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	16	r	R	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	17	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	18	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	19	r	R	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	20	l	R	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	21	r	L	0								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	22	r	R	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	23	l	L	1								
+Kisa	m	young chimps	25	03-Dec-18		1	pretest		blue	24	r	R	1								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	1	r	R	1								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	2	r	R	1								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	3	l	R	0								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	4	l	R	0								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	5	r	R	1								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	6	l	R	0								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	7	r	R	1								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	8	r	R	0								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	9	l	R	0								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	10	r	R	1								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	11	l	R	0								
+Julia	f	old chimps	18	06/11/2018		2	test	food-stick	pink	12	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	13	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	14	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	15	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	16	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	17	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	18	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	19	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	20	l	L	1								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	21	r	L	0								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	22	l	L	1								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	23	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	test	food-stick	pink	24	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	1	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	2	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	3	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	4	r	L	0								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	5	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	6	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	7	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	8	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	9	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	10	l	R	0								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	11	r	R	1								
+Julia	f	old chimps	18	07/11/2018		3	transfer	stick-food	pink	12	r	R	1								

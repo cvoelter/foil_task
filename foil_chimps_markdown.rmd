@@ -1,0 +1,167 @@
+---
+title: "Foil task_Markdown"
+author: "Christoph Voelter"
+date: "December 09, 2018"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+library(lme4)
+library(readr)
+library(tidyverse)
+library(sjPlot)
+library(ggthemes)
+source("Roger_functions/diagnostic_fcns.r")
+source("Roger_functions/glmm_stability.r")
+source("Roger_functions/boot_glmm.r")
+#load(file ="mm1_mult_poss.RData")
+#readRDS(file ="multpos_model.rds")
+```
+
+```{r loading data, include = FALSE}
+Foil.data <- read.table(file="data/20181210foil task_chimps sweetwaters.txt", header=T, sep="\t") %>%
+  filter(Phase == "pretest")
+
+```
+
+
+*** 
+
+##Test against chance 
+
+####Pretest
+
+```{r echo=FALSE}
+foil_individual <- Foil.data %>%
+  group_by(Subject) %>% 
+  summarize(foil.correct = mean(correct)) %>%
+  add_count(foil.correct)
+
+
+tt<-t.test(foil_individual$foil.correct , mu=0.5, alternative = "two.sided")
+
+```
+* Mean correct vs chance value (0.5) in **Pretest phase**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`  
+
+```{r echo=FALSE}
+knitr::knit_exit()
+```
+
+
+
+
+##stop here
+
+#GLMMs with age group as factor
+
+##Summary
+
+
+###Preprocessing of the data  
+
+```{R include=FALSE}
+
+all.data$Age.cat=relevel(all.data$Age.cat, ref="three")
+summary(all.data)
+
+```
+
+```{R include=FALSE}
+xx.fe.re=fe.re.tab(fe.model="Correct  ~
+                  Trial.type*Order2+Trial.number+
+                   Age.cat*Order2+Sex",
+                   re="(1|Subject.ID)+(1|Box.type)",
+                   data=data.frame(all.data))
+xx.fe.re$summary
+ydata=xx.fe.re$data
+```
+
+
+  + Scale variables: trial number, age, and order of conditions
+```{R include=FALSE}
+ripmon1$z.trialno=as.vector(scale(ripmon1$trialno))
+ripmon1$z.age=as.vector(ripmon1$scale(age))
+```
+
+  + Centering of random slope components of categorical predictors (phase, distractor homogeneity, baited dimension)
+```{R include=FALSE}
+ydata$Trial.type.sticker.c=ydata$Trial.type.sticker-mean(ydata$Trial.type.sticker)
+
+ydata$Age.cat.five.c=ydata$Age.cat.five-mean(ydata$Age.cat.five)
+ydata$Age.cat.four.c=ydata$Age.cat.four-mean(ydata$Age.cat.four)
+```
+
+```{r}
+#coding dummy variables before centering the slopes
+ripmon1$trialtype.food<-as.numeric(ripmon1$trialtype==levels(ripmon1$trialtype)[2])
+ripmon1$sex.m<-as.numeric(ripmon1$sex==levels(ripmon1$sex)[2])
+ripmon1$phase.transfer<-as.numeric(ripmon1$phase==levels(ripmon1$phase)[2])
+```
+
+
+
+***
+
+```{r  echo=FALSE}
+
+foil_individual <- ripmon1 %>%
+  group_by(phase, id) %>% 
+  summarize(foil.correct = mean(correct)) %>%
+  add_count(foil.correct)
+
+p1 <- ggplot(
+  data=foil_individual, aes(x=phase, y=foil.correct, group=phase)) +
+  geom_boxplot()+
+  ylim(0,1)+
+  geom_point(size = foil_individual$n, colour = "purple") +
+  labs(x="",y="Mean number of correct choices")+
+  theme_few()+
+  ggtitle("Phase")+
+  geom_hline(yintercept=0.5, linetype="dashed", color = "red")
+
+foil_individual2 <- ripmon1 %>%
+  group_by(trialtype, id) %>% 
+  summarize(foil.correct = mean(correct)) %>%
+  add_count(foil.correct)
+
+p2 <- ggplot(
+  data=foil_individual2, aes(x=trialtype, y=foil.correct, group=trialtype)) +
+  geom_boxplot()+
+  ylim(0,1)+
+  geom_point(size = foil_individual2$n, colour = "purple") +
+#  geom_line(lty=2)+
+  labs(x="",y="Mean number of correct choices")+
+  theme_few()+
+  ggtitle("Trial type")+
+  geom_hline(yintercept=0.5, linetype="dashed", color = "red")
+
+
+grid.arrange(p1, p2, nrow = 1, heights=unit(100, "mm"))
+
+```
+  
+* Dashed line: chance level  
+
+
+*** 
+
+##Test against chance 
+
+####Test and transfer phase
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual$foil.correct[foil_individual$phase=="test"] , mu=0.5, alternative = "two.sided")
+
+```
+* Mean correct vs chance value (0.5) in **Test phase**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`  
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual$foil.correct[foil_individual$phase=="transfer"] , mu=0.5, alternative = "two.sided")
+
+```
+* Mean correct vs chance value (0.5) in **Transfer phase**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)` 

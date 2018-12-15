@@ -1,0 +1,283 @@
+---
+title: "Foil task - Capuchins - Markdown"
+#author: "Christoph Voelter"
+date: "December 09, 2018"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    theme: united
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+library(lme4)
+library(readr)
+library(tidyverse)
+library(sjPlot)
+library(ggthemes)
+library(gridExtra)
+library(reshape2)
+library(car)
+#library(brms)
+library(BayesFactor)
+source("Roger_functions/diagnostic_fcns.r")
+source("Roger_functions/glmm_stability.r")
+source("Roger_functions/boot_glmm.r")
+#load(file ="mm1_mult_poss.RData")
+#readRDS(file ="multpos_model.rds")
+```
+
+```{r loading data, include = FALSE}
+ripmon1<-read.csv("data/ripped_monkey_test16.csv", header=T)
+summary(ripmon1)
+
+```
+
+```{r  echo=FALSE}
+
+foil_individual <- ripmon1 %>%
+  group_by(phase, id) %>% 
+  summarize(foil.correct = mean(correct)) %>%
+  add_count(foil.correct)
+
+p1 <- ggplot(
+  data=foil_individual, aes(x=phase, y=foil.correct, group=phase)) +
+  geom_boxplot()+
+  ylim(0,1)+
+  geom_point(size = foil_individual$n, colour = "darkblue", alpha=0.3) +
+  labs(x="",y="Mean number of correct choices")+
+  theme_few()+
+  ggtitle("Phase")+
+  geom_hline(yintercept=0.5, linetype="dashed", color = "red")
+
+foil_individual2 <- ripmon1 %>%
+  group_by(trialtype, id) %>% 
+  summarize(foil.correct = mean(correct)) %>%
+  add_count(foil.correct)
+
+p2 <- ggplot(
+  data=foil_individual2, aes(x=trialtype, y=foil.correct, group=trialtype)) +
+  geom_boxplot()+
+  ylim(0,1)+
+  geom_point(size = foil_individual2$n, colour = "darkblue", alpha=0.3) +
+#  geom_line(lty=2)+
+  labs(x="",y="Mean number of correct choices")+
+  theme_few()+
+  ggtitle("Trial type")+
+  geom_hline(yintercept=0.5, linetype="dashed", color = "red")
+
+
+grid.arrange(p1, p2, nrow = 1, heights=unit(100, "mm"))
+
+```
+  
+* Dashed line: chance level  
+
+
+*** 
+
+##Test against chance 
+
+####Test and transfer phase
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual$foil.correct[foil_individual$phase=="test"] , mu=0.5, alternative = "two.sided")
+
+```
+* Mean correct vs chance value (0.5) in **Test phase**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`  
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual$foil.correct[foil_individual$phase=="transfer"] , mu=0.5, alternative = "two.sided")
+
+```
+* Mean correct vs chance value (0.5) in **Transfer phase**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)` 
+
+
+#####Comparison between test and transfer phase
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual$foil.correct[foil_individual$phase=="test"], foil_individual$foil.correct[foil_individual$phase=="transfer"], paired = TRUE, alternative = "two.sided")
+```
+* Difference between test and transfer phase: Mean difference = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`  
+
+* Bayes Factor for the Null Hypothesis (Difference between test and transfer = 0):
+
+```{r echo=FALSE}
+bf <- ttestBF(foil_individual$foil.correct[foil_individual$phase=="test"], foil_individual$foil.correct[foil_individual$phase=="transfer"], paired=TRUE)
+
+1 / bf [1]
+
+```
+
+--> Evidence for no difference between test and transfer performance.  
+
+
+####Trial type
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual2$foil.correct[foil_individual2$trialtype=="stick"] , mu=0.5, alternative = "two.sided")
+
+```
+* Mean correct vs chance value (0.5) in **Stick trials**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)`  
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual2$foil.correct[foil_individual2$trialtype=="food"] , mu=0.5, alternative = "two.sided")
+
+```
+* Mean correct vs chance value (0.5) in **Food trials**: Mean = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)` 
+
+#####Comparison between stick and food trials
+
+```{r echo=FALSE}
+tt<-t.test(foil_individual2$foil.correct[foil_individual2$trialtype=="food"], foil_individual2$foil.correct[foil_individual2$trialtype=="stick"], paired = TRUE, alternative = "two.sided")
+```
+* Difference between food and stick trials: Mean difference = `r round(tt$estimate, 2)`, 95% CI [`r round(tt$conf.int[1],2)`, `r round(tt$conf.int[2],2)`], *t*(`r tt$parameter`)=`r round(tt$statistic,2)`, *p*=`r round(tt$p.value,3)` 
+
+
+##GLMM
+
+###Preprocessing of the data  
+
+  + Relevel trial type reference category: "stick" as reference category
+  
+```{R include=FALSE}
+ripmon1$trialtype<-relevel(ripmon1$trialtype, ref = "stick")
+
+```
+
+```{r eval=FALSE, echo=FALSE}
+xx.fe.re=fe.re.tab(fe.model="correct ~ trialtype*phase+trialno+age+sex",
+                   re="(1|id)",
+                   data=data.frame(ripmon1))
+xx.fe.re$summary
+```
+
+
+  + Scale variables: trial number and age
+```{R include=FALSE}
+ripmon1$z.trialno=as.vector(scale(ripmon1$trialno))
+ripmon1$z.age=as.vector(scale(ripmon1$age))
+```
+
+  + Centering of random slope components of categorical predictors (trial type and phase)
+
+```{r echo=FALSE}
+#coding dummy variables before centering the slopes
+ripmon1$trialtype.food<-as.numeric(ripmon1$trialtype==levels(ripmon1$trialtype)[2])
+ripmon1$phase.transfer<-as.numeric(ripmon1$phase==levels(ripmon1$phase)[2])
+
+ripmon1$phase.transfer.c=ripmon1$phase.transfer-mean(ripmon1$phase.transfer)
+ripmon1$trialtype.food.c=ripmon1$trialtype.food-mean(ripmon1$trialtype.food)
+
+```
+
+
+***
+
+```{r include=FALSE}
+contr=glmerControl(optimizer="bobyqa", optCtrl=list(maxfun=10000000))
+```
+
+####Full model
+```{r}
+glmm01_full=glmer(correct ~ trialtype*phase+z.trialno+z.age+sex+
+             (1+z.trialno+phase.transfer.c+trialtype.food.c|id)+(1|boxtype),
+           data=ripmon1, family=binomial, control=contr)
+```
+
+####Null model	 
+```{r echo=FALSE}
+glmm01_null=glmer(correct ~ 1+
+             (1+z.trialno+phase.transfer.c+trialtype.food.c|id)+(1|boxtype),
+           data=ripmon1, family=binomial, control=contr)
+```
+
+  + Full-null model comparison  
+```{r echo=FALSE}	 
+round(anova(glmm01_null, glmm01_full, test="Chisq"),3)
+```
+
+#####Model output
+  + Coefficients
+```{r echo=FALSE}
+round(summary(glmm01_full)$coefficients, 3)
+```
+
+
+  + Individual predictors: likelihood ratio tests  
+Drop1: P values for the individual effects were based on likelihood ratio tests comparing the full with respective reduced models (Barr et al., 2013; R function drop1 with argument 'test' set to "Chisq"). 
+
+```{r echo=FALSE}
+xdrop1=drop1(glmm01_full, test="Chisq",control=contr)
+round(xdrop1,3)
+```
+
+
+
+
+###Reduced model without interactions
+####Full model
+```{r}
+glmm02_full=glmer(correct ~ trialtype+phase+z.trialno+z.age+sex+
+             (1+z.trialno+phase.transfer.c+trialtype.food.c|id)+(1|boxtype),
+           data=ripmon1, family=binomial, control=contr)
+```
+
+Note: removed the interaction between random slope components due to convergence issues for likelihood ratio tests (drop1).
+
+####Null model	 
+```{r echo=FALSE}
+glmm02_null=glmer(correct ~ 1+
+             (1+z.trialno+phase.transfer.c+trialtype.food.c|id)+(1|boxtype),
+           data=ripmon1, family=binomial, control=contr)
+```
+
+Full-null model comparison
+```{r echo=FALSE}	 
+round(anova(glmm02_null, glmm02_full, test="Chisq"),3)
+```
+
+#####Model output
+  + Coefficients
+```{r echo=FALSE}
+round(summary(glmm02_full)$coefficients, 3)
+```
+
+
+  + Individual predictors: likelihood ratio tests  
+Drop1: P values for the individual effects were based on likelihood ratio tests comparing the full with respective reduced models (Barr et al., 2013; R function drop1 with argument 'test' set to "Chisq"). 
+
+```{r echo=FALSE}
+xdrop1=drop1(glmm02_full, test="Chisq",control=contr)
+round(xdrop1,3)
+```
+
+#####Plot random effects  
+```{r echo=FALSE}
+plot_model(glmm02_full, type='re')[[1]] 
+```
+
+#####Plot predictors
+```{R echo=FALSE}
+plot_model(glmm02_full, type="est")
+```
+
+#####Check for model stability 
+Check for model stability by removing levels of the random effects on by one and visualising the resulting variance of each variable
+```{R echo=FALSE, warnings=FALSE}
+m.stab=glmm.model.stab(model.res=glmm02_full, contr=contr)
+m.stab.plot(m.stab$summary[,-1])
+```
+
+#####Check for multicollinearity  
+
+```{R echo=FALSE}
+xres=lm(correct ~ trialtype+phase+z.trialno+z.age+sex, data=ripmon1)
+round(vif(xres),3)
+```
+--> no colinearity issues.

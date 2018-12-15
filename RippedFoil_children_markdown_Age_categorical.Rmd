@@ -1,0 +1,130 @@
+---
+title: "Ripped Foil - Children - Analysis"
+output:
+  pdf_document: default
+  pdf_notebook: default
+  html_document:
+    df_print: paged
+  html_notebook: default
+---
+
+```{r include=FALSE}
+#Source functions and load packages
+library(lme4)
+library(multcomp)
+library(car)
+library(sjPlot)
+library(rethinking)
+source("C:/Users/cjv3/R/R scripts/Roger/diagnostic_fcns.r")
+source("C:/Users/cjv3/R/R scripts/Roger/glmm_stability.r")
+source("C:/Users/cjv3/R/R scripts/Roger/boxplotteR.r")
+source("C:/Users/cjv3/R/R scripts/Roger/boot_glmm.r")
+source("C:/Users/cjv3/R/R scripts/Roger/corr_exact.r")
+#Load and inspect data file.
+setwd("~/R/R data analysis/Zeynep_ripped foil/")
+getwd()
+all.data=read.table(file="Data_ripped_for R.txt", header=T, sep="\t")
+summary(all.data)
+#load(".RData")
+```
+
+
+#GLMMs with age group as factor
+
+##Summary
+
+
+###Preprocessing of the data  
+
+```{R include=FALSE}
+#3-y-olds as reference catergory
+all.data$Age.cat=relevel(all.data$Age.cat, ref="three")
+summary(all.data)
+
+```
+
+```{R include=FALSE}
+xx.fe.re=fe.re.tab(fe.model="Correct  ~
+                  Trial.type*Order2+Trial.number+
+                   Age.cat*Order2+Sex",
+                   re="(1|Subject.ID)+(1|Box.type)",
+                   data=data.frame(all.data))
+xx.fe.re$summary
+ydata=xx.fe.re$data
+```
+
+
+  + Scale variables: trial number, age, and order of conditions
+```{R include=FALSE}
+ydata$z.Trial=as.vector(scale(ydata$Trial.number))
+ydata$z.Order=as.vector(scale(ydata$Order2))
+```
+
+  + Centering of random slope components of categorical predictors (phase, distractor homogeneity, baited dimension)
+```{R include=FALSE}
+ydata$Trial.type.sticker.c=ydata$Trial.type.sticker-mean(ydata$Trial.type.sticker)
+ydata$Sex.m.c=ydata$Sex.m -mean(ydata$Sex.m )
+ydata$Age.cat.five.c=ydata$Age.cat.five-mean(ydata$Age.cat.five)
+ydata$Age.cat.four.c=ydata$Age.cat.four-mean(ydata$Age.cat.four)
+```
+***
+### Run Model
+
+####Full model
+```{r}
+contr=glmerControl(optimizer="bobyqa", optCtrl=list(maxfun=10000000))
+full=glmer(Correct ~ Trial.type*z.Order+z.Trial+Age.cat*z.Order+Sex+
+             (1|Subject.ID)+(1|Box.type)+
+             (0+z.Trial+z.Order+Trial.type.sticker.c|Subject.ID),
+           #+ (0+z.Trial+z.Order+Sex.m.c+Trial.type.sticker.c|Box.type)+
+      #     (0+Age.cat.four.c|Box.type)+(0+Age.cat.five.c|Box.type),
+           data=ydata, family=binomial, control=contr)
+```
+
+
+####Null model	 
+```{r}	 
+null=glmer(Correct  ~ 1+
+             (1|Subject.ID)+(1|Box.type)+
+             (0+z.Trial+z.Order+Trial.type.sticker.c|Subject.ID),
+           data=ydata, family=binomial, control=contr)
+```
+####Full-null model comparison
+```{r echo=FALSE}	 
+round(anova(null, full, test="Chisq"),3)
+```
+
+```{r}
+xdrop1=drop1(full, test="Chisq",control=contr)
+round(xdrop1,3)
+```
+
+
+
+####reduced model without interactions
+```{r}
+contr=glmerControl(optimizer="bobyqa", optCtrl=list(maxfun=10000000))
+full2=glmer(Correct ~ Trial.type+z.Order+z.Trial+Age.cat+Sex+
+             (1|Subject.ID)+(1|Box.type)+
+             (0+z.Trial+z.Order+Trial.type.sticker.c|Subject.ID),
+           data=ydata, family=binomial, control=contr)
+```
+
+
+```{r}
+xdrop1=drop1(full2, test="Chisq",control=contr)
+round(xdrop1,3)
+```
+
+
+####Model output
+  + Coefficients
+```{r}
+round(summary(full2)$coefficients, 2)
+```
+
+####Posthoc pairwise comparisons
+```{R}
+xx=glht(full2, linfct = mcp(Age.cat = c("five-three = 0", "four-three = 0", "five-four =0")))
+summary(xx)
+```
